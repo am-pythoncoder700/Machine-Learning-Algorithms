@@ -7,4 +7,4 @@ This repository contains Jupyter notebooks showcasing various machine learning a
 3. Decision Tree.
 4. Naive Bayes.
 5. Random Forest.
-6. Time Series Models like ARIMA< SARIMA etc.
+6. Time Series Models like ARIMA, SARIMA etc.
